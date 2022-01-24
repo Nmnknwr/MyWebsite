@@ -2361,7 +2361,7 @@ body.is-touch .main {
 /* Two */
 
 #work {
-  background: url("images/overlay.png"), url("../../images/two.jpg");
+  background: url("images/overlay.png"), url("../../images/code.jpg");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, center center;
@@ -2389,7 +2389,7 @@ body.is-touch .main {
   width: 100%;
   height: 100%;
   background-color: #ffffff00;
-  background-image: url("../../images/intro3.jpg");
+  background-image: url("../../images/plainwood.jpg");
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
