@@ -2394,3 +2394,9 @@ body.is-touch .main {
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
+
+
+svg {
+  position: relative;
+  left: -150px;
+}
